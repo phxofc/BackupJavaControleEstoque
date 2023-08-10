@@ -1,0 +1,4 @@
+foi feito o metodo salvar produto da venda que deu muito trabalho, lembrar de estudar direitinho
+
+aula- Aula 31 - Salvar Vendas Part 1 e 2 - Curso de Java
+https://www.youtube.com/watch?v=uIwxbtWgXFc&list=PLXvnssJXEkkRn4GW0Ap1NKKTZdA8T7GOW&index=31

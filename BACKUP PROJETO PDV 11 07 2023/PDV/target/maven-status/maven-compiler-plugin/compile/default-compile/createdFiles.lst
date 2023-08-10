@@ -1,0 +1,4 @@
+DAO\DaoProdutos.class
+conexoes\Conexao.class
+controller\ControllerProdutos.class
+model\ModelProdutos.class
